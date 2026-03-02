@@ -25,7 +25,7 @@ Edwin Avila: Espera fortaleces sus habilidades en la documentacion de proyectos 
 En constancia de aceptacion de lo aqui estipulado, los imtegrantes firman la presente acta:
 + 28/02/2026 Pedro David Ballestero Buelvas
   
- C.c 1069475336
+  C.c 1069475336
 
 
 + 28/02/2026 Edwin Hernando avila hernandez
@@ -38,9 +38,9 @@ En constancia de aceptacion de lo aqui estipulado, los imtegrantes firman la pre
 
   Integrabtes:
 
-  Pedro David Ballestero Buelvas
+ + Pedro David Ballestero Buelvas
 
-  Edwin Hernando Avila Hernandez
+ + Edwin Hernando Avila Hernandez
 
  +  Objetivo del acta
 
