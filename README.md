@@ -20,7 +20,7 @@ El equipo se compromete a crear un programa de python que permita la gestion del
 
 Pedro Ballestero: Espera obtener grandes habilidades en programacion, participar en los desarrollos de los codigos y mejores sus capacidades de rosolucion de problemas aplicados en este curso, ademas de esto busca afianzar su pensamiento analitico y ordenado.
 
-Edwin Avila: Espera fortaleces sus habilidades en la documentacion de proyectos ademas tambien busca adquirir mayor domino de redaccion en el lenguage de programacion. apoyar la estructuracion de entregables
+Edwin Avila: Espera fortaleces sus habilidades en la documentacion de proyectos ademas tambien busca adquirir mayor dominio de redaccion en el lenguage de programacion. apoyar la estructuracion de entregables
 
 En constancia de aceptacion de lo aqui estipulado, los imtegrantes firman la presente acta:
 
@@ -54,19 +54,19 @@ En constancia de aceptacion de lo aqui estipulado, los imtegrantes firman la pre
    Reuniones periodicas para organizar, revisar los avances y toma de decisiones.
 Comunicacion costante y transparente entre los integrantes
  Organizacion de actividades en conjunto, aseguraando la participacion de cada uno de los integrantes
-    Responsabilidad individual en el cumplimientos de tareas asignadas
+    Responsabilidad individual en el cumplimiento de tareas asignadas
 
   +  Canales de comunicacion
 
-     WhatsApp: canal principal de comunicaion por rapidez y agilidad
+     WhatsApp: canal principal de comunicacion por rapidez y agilidad
     Github: respositorio oficial para almacenar el codigo, documentacion y entregables del proyecto
 
-  + El grupo se reunira al menos una vez por semana para resisar avances, discurir dudad y coordinar responsabilidades. En caso de ser necesasrio se convocara reuniones via WhatsApp
+  + El grupo se reunira al menos una vez por semana para revisar avances, discutir dudas y coordinar responsabilidades. En caso de ser necesasrio se convocara reuniones via WhatsApp
 
-  + Estrategias de resolucion de conflictos
-  + LOs desacuerdo seran abordados de forma respetusa durante las reuniones grupañes
+   + Estrategias de resolucion de conflictos
+   + LOs desacuerdo seran abordados de forma respetuasa durante las reuniones grupales
   + Se promera el dialogo abierto y la busqueda consensos
-  + Si el conflinto persiste, el caso sera ezpuesto de docente del resursom, quien atuara como mediador neutral.
+ + Si el conflinto persiste, el caso sera espuesto de docente del recursos, quien actuara como mediador neutral.
 
   + En constancia de aceptacion de lo aqui estipulado, los integrates firman la presente acta:
 
@@ -89,12 +89,12 @@ Integrantes:
 
 + Objetivo del acta
 
-  Defininir las tereas especificas asigandos a cada integrante del grupo, establces estrategia de avance, plazad intermedios y criterios de evalucion que garanticen el cumpliemto exitoso del proyecto
+  Defininir las tereas especificas asignados a cada integrante del grupo, establece estrategia de avance, plazos intermedios y criterios de evaluacion que garanticen el cumplimiento exitoso del proyecto
 
   + Estrategias de avance
  
     
-   Duvidis el trabajo segun los puntos requeridos en la entrega
+   Dividir el trabajo segun los puntos requeridos en la entrega
 
   
    Mantener reuniones semananalees de seguimiento para verificar avances
@@ -103,12 +103,12 @@ Integrantes:
    subir progresivamente la documentacion al repositorio en Github para reunir la informacion
 
   
-   Definir plazos intermenios antes de la fecha de entrega para poder revisarla en equipo
+   Definir plazos intermedios antes de la fecha de entrega para poder revisarla en equipo
 
   
-   Priorizar la organizacion y claridad de los documentos dejar las creacion del coigo para la siguiente parte
+   Priorizar la organizacion y claridad de los documentos, dejar las creacion del codigo para la siguiente parte
  
-  + Asigancion de responsabilidades
+  + Asignacion de responsabilidades
  
   + Pedro David Ballestero Buelvas
     
@@ -119,6 +119,9 @@ Integrantes:
     3. apoyo en la contruccion del plan proyecto
 
     4. Plazo: borrador listo en la semana 6 para revison grupal
+       
+    5. Creador del repositorio
+  
 
 	+  Edwin Hernando Avila Hernandez
 
@@ -132,15 +135,15 @@ Integrantes:
         3. participacion activa en reuniones y discusiones
         4. aporte equitativo y compromiso con el proyecto
        
-           En contancia de aceptacion de lo aqui estipualado, los integrantes firman la siguiente acta
+      En contancia de aceptacion de lo aqui estipualado, los integrantes firman la siguiente acta
 
-	   01/03/2026 Pedro David Ballestero
+  01/03/2026 Pedro David Ballestero
 
-		C.c 1069475336
+  C.c 1069475336
 
-         01/03/2026 Edwind hernando avila hernandez
+  01/03/2026 Edwind hernando avila hernandez
 
-		C.c 1101260281
+ C.c 1101260281
   
 
 
